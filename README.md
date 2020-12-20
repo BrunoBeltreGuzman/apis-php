@@ -23,7 +23,7 @@ $result = $apisUsers->delete($id);
 ```
 You need to send the user id first.
 
-**And Fect:**
+**And Fetch:**
 ```php
 $apisUsers = new ApisUsers();
 $result = $apisUsers->fetchAll();
